@@ -1,4 +1,4 @@
-variable "pichurris_prime" {
+variable "bucket_name" {
   description = "El nombre único del bucket S3."
   type        = string
 }
